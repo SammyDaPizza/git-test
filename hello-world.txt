@@ -1,0 +1,2 @@
+Hello world, and Odin!
+This is some practice at staging and committing my code onto my repo on GitHub!
